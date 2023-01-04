@@ -1,4 +1,4 @@
-# digitalid
+# Digital ID
 
 A new Flutter project.
 
